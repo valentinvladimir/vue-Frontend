@@ -244,20 +244,6 @@
 
             <div class="teamWrapper">
 
-                <div class="our-team stratulat">
-                    <div class="team-pic">
-                        <img src="/public/assets/images/team/Adrian-Stratulat.jpg" alt="Adrian Stratulat">
-                        <div class="over-layer">
-                            <ul class="social-link">
-                                <li><a href="https://www.linkedin.com/in/adrianstratulat/" target="_blank" class="fa fa-linkedin2"></a></li>
-                                <li><a href="https://www.facebook.com/Adrian.Stratulat" target="_blank"  class="fa fa-facebook"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <span class="teamName">Adrian Stratulat</span>
-                    <span class="teamRole">Marketing</span>
-                    <p>Entrepreneur by vocation and diplomat by training, Adrian is the Executive Director of the Romanian Blockchain Association and oversees the Marketing Strategy & Implementation for WebDollar.</p>
-                </div>
                 <div class="our-team robescu">
                     <div class="team-pic">
                         <img src="/public/assets/images/team/AdrianRobescu.jpg" alt="Adrian Robescu">
@@ -319,19 +305,6 @@
 
             <div class="teamWrapper threeMembersTeam">
 
-                <div class="our-team patrick">
-                    <div class="team-pic">
-                        <img src="/public/assets/images/team/Patrick-McCullough.jpg" alt="Patrick McCullough">
-                        <div class="over-layer">
-                            <ul class="social-link">
-                                <li> <a href="https://www.linkedin.com/in/patrick-mccullough-982643b/" target="_blank" class="fa fa-linkedin2"></a> </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <span class="teamName">Patrick McCullough</span>
-                    <span class="teamRole">Community ADVISOR</span>
-                    <p>Patrick is the presentation coach for Singularity University's SU Ventures in Silicon Valley. He recently joined the Unreasonable Group for their Project Literacy Lab with Pearson, and he coaches senior executives for GE in Europe.</p>
-                </div>
                 <div class="our-team smirna">
                     <div class="team-pic">
                         <img src="/public/assets/images/team/Tudor-Smirna.jpeg" alt="Tudor Smirna">
