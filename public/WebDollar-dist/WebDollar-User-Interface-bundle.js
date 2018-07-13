@@ -8896,10 +8896,10 @@ exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
 
     var Vue = __webpack_require__(3);
 
-    
-    
-    
-    
+
+
+
+
 
     /* harmony default export */ __webpack_exports__["a"] = ({
 
@@ -11601,7 +11601,7 @@ if (false) {(function () {
     }
     ,
     methods: {
-    
+
         changeWorkers(value){
 
             WebDollar.Blockchain.Mining.setWorkers(value);
@@ -11636,7 +11636,7 @@ if (false) {(function () {
                     }
                 }
             };
-            
+
             if (this.stopTimerHandler)
                 this.stopTimerHandler();
 
@@ -11668,7 +11668,7 @@ if (false) {(function () {
 //
 
 
-    
+
 
     /* harmony default export */ __webpack_exports__["a"] = ({
 
@@ -14489,12 +14489,12 @@ module.exports = bytesToUuid;
                      if (WebDollar.Blockchain.loaded !== true) {
                          this.deleteAlert("error-internet");
                          this.deleteAlert("error-firewall");
-                         this.addAlert("error-firewall", "error", "Check your Firewall, Router, Anti-virus or Internet");
+                         this.addAlert("error-firewall", "error", "Check your Firewall, Router, Anti-virus or Internet connection");
                      }
                      else {
                          this.deleteAlert("error-internet");
                          this.deleteAlert("error-firewall");
-                         this.addAlert("error-internet", "error", "Internet is no longer working. Check your internet or refresh");
+                         this.addAlert("error-internet", "error", "Internet is no longer working. Check your Internet connection or refresh the page");
                      }
 
                      break;
@@ -14503,7 +14503,7 @@ module.exports = bytesToUuid;
 
                      this.deleteAlert("error-internet");
                      this.deleteAlert("error-firewall");
-                     this.addAlert("error-internet", "error","Internet is no longer working. Check your internet or refresh");
+                     this.addAlert("error-internet", "error","Internet is no longer working. Check your Internet connection or refresh the page");
                      break;
              }
 
@@ -14556,14 +14556,14 @@ module.exports = bytesToUuid;
 
                  case "Wallet is not loaded successfully":
 
-                     this.addAlert("pouchDB-error", "error", "<b>Wallet was not loaded</b> There might big a problem with your browser <b style='text-decoration: underline; color:blue'>Refresh</b> or contact us!", undefined, "/");
+                     this.addAlert("pouchDB-error", "error", "<b>Wallet was not loaded</b> There might be a problem with your browser <b style='text-decoration: underline; color:blue'>Refresh</b> or contact us!", undefined, "/");
 
                      break;
 
                  case "IndexedDB - Wallet couldn't be imported":
                      if (this.checkIfExistsAlert("wallet-error")) break;
 
-                     this.addAlert("wallet-error", "error", "<b>Wallet couldn't be imported</b> "+data.dbName+" Try refresh or Erase your Wallet. <b style='text-decoration: underline; color:blue'>Click Here</b>", undefined, "/clearIndexedDB");
+                     this.addAlert("wallet-error", "error", "<b>Wallet couldn't be imported</b> "+data.dbName+" Try refreshing the page or Erase your Wallet. <b style='text-decoration: underline; color:blue'>Click Here</b>", undefined, "/clearIndexedDB");
                      break;
 
                  case "Incognito mode":
@@ -14573,7 +14573,7 @@ module.exports = bytesToUuid;
                  case "WebAssembly not supported":
                      if (this.checkIfExistsAlert("web-assembly-warning")) break;
 
-                     this.addAlert("web-assembly-warning", "warning", "<b>WebAssembly is not supported</b>. You use an old browser or one that doesn't support WebAssembly. Install Chrome/Firefox/Safari and mining increases with 70%");
+                     this.addAlert("web-assembly-warning", "warning", "<b>WebAssembly is not supported</b>. You use an old browser or one that doesn't support WebAssembly. Install Chrome/Firefox/Safari/Opera and mining will increase with ~70%");
                      break;
 
                  case "ASM.JS not supported":
@@ -18952,7 +18952,7 @@ class Circles {
     get(cell) {
         return this.cells[cell.cellId] || 0;
     }
-    
+
 }
 
 /* harmony default export */ __webpack_exports__["a"] = (Circles);
