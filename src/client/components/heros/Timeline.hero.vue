@@ -14,7 +14,7 @@
                         <div class="timeline-content">
                             <h5 class="title">WHITE PAPER DRAFT</h5>
                             <p class="description">
-                                An initial white paper was realized to describe the WebDollar protocol
+                                An initial white paper was realized to describe the WebDollar protocol.
                             </p>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                         <div class="timeline-content">
                             <h5 class="title">TECH HUB JS HACKATHON</h5>
                             <p class="description">
-                                An initial team was formed during the JSHacks Blockchain Hackaton to bootstrap and implement the vision behind WebDollar
+                                An initial team was formed during the JSHacks Blockchain Hackaton to bootstrap and implement the vision behind WebDollar.
                             </p>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                         <div class="timeline-content">
                             <h5 class="title">P2P AND MINI-BLOCKCHAIN</h5>
                             <p class="description">
-                                Our community started to develop and finalize P2P connections through Websockets and WebRTC. Implementation of Mini-blockchain
+                                Our community started to develop and finalize P2P connections through Websockets and WebRTC. Implementation of Mini-blockchain.
                             </p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                         <div class="timeline-content">
                             <h5 class="title">LAUNCH TEST NET</h5>
                             <p class="description">
-                                Developing and launching and consensus Proof of Work blockchain
+                                Developing and launching a consensus Proof of Work blockchain.
                             </p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                         <div class="timeline-content">
                             <h5 class="title">SECURITY + LAUNCH MAIN NET</h5>
                             <p class="description">
-                                Non-Interactive Proofs of Proof-of-Work, Improving the Security and launching a Main Net
+                                Non-Interactive Proofs of Proof-of-Work, Improving the Security and launching a Main Net.
                             </p>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                         <div class="timeline-content">
                             <h5 class="title">Mining pools & Exchange</h5>
                             <p class="description">
-                                Developing a easy way to mine with your friends in social mining. And listing on first official exchanges
+                                Developing an easy way to mine with your friends in social mining. Listing on first official exchanges.
                             </p>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                         <div class="timeline-content">
                             <h5 class="title">SMART CONTRACTS, ANONYMITY</h5>
                             <p class="description">
-                                Developing a Smart Contracts Platform, Anonymity, Currency Exchange, multisign with fingerprint / faceID
+                                Developing a Smart Contracts Platform, Anonymity, Currency Exchange, multisign with fingerprint. / faceID
                             </p>
                         </div>
                     </div>
