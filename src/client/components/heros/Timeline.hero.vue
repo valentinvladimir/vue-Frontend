@@ -14,7 +14,7 @@
                     <div class="timeline-content">
                         <h5 class="title">WHITE PAPER DRAFT</h5>
                         <p class="description">
-                            An initial white paper was realized to describe the WebDollar protocol
+                            An initial white paper was realized to describe the WebDollar protocol.
                         </p>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
                     <div class="timeline-content">
                         <h5 class="title">TECH HUB JS HACKATHON</h5>
                         <p class="description">
-                            An initial team was formed during the JSHacks Blockchain Hackaton to bootstrap and implement the vision behind WebDollar
+                            An initial team was formed during the JSHacks Blockchain Hackaton to bootstrap and implement the vision behind WebDollar.
                         </p>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                     <div class="timeline-content">
                         <h5 class="title">P2P AND MINI-BLOCKCHAIN</h5>
                         <p class="description">
-                            Our community started to develop and finalize P2P connections through Websockets and WebRTC. Implementation of Mini-blockchain
+                            Our community started to develop and finalize P2P connections through Websockets and WebRTC. Implementation of Mini-blockchain.
                         </p>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                     <div class="timeline-content">
                         <h5 class="title">SECURITY & LAUNCH MAIN NET</h5>
                         <p class="description">
-                            Non-Interactive Proofs of Proof-of-Work, Improving the Security and launching a Main Net
+                            Non-Interactive Proofs of Proof-of-Work, Improving the Security and launching the Main Net.
                         </p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                     <div class="timeline-content">
                         <h5 class="title">MINING POOLS & REFERRAL SYSTEM</h5>
                         <p class="description">
-                            Developing a easy way to mine with your friends in social mining. Also, creation of the Mining Pools Referral System.
+                            Developing an easy way to mine with your friends in social mining. Also, creation of the Mining Pools Referral System.
                         </p>
                     </div>
                 </div>
@@ -84,7 +84,7 @@
                     <div class="timeline-content">
                         <h5 class="title">EXCHANGE LISTING</h5>
                         <p class="description">
-                            Developing the first Exchange for the WebDollar Ecosystem and creating easy to integrate API for other Exchanges
+                            Developing the first Exchange for the WebDollar Ecosystem and creating easy to integrate API for other Exchanges.
                         </p>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                     <div class="timeline-content">
                         <h5 class="title">EVANGELISM & MARKETING</h5>
                         <p class="description">
-                            Growing the community, running bounties programs & attend to cryptocurrency confereces.
+                            Growing the community, running bounties programs & attend cryptocurrency confereces.
                         </p>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                     <div class="timeline-content">
                         <h5 class="title">SMART CONTRACTS</h5>
                         <p class="description">
-                            Developing a Smart Contracts Platform that allows  users to create their own financial assets — Webdollar Tokens.
+                            Developing a Smart Contracts Platform that allows users to create their own financial assets — Webdollar Tokens.
                         </p>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                     <div class="timeline-content">
                         <h5 class="title">DECENTRALIZED BAZAAR</h5>
                         <p class="description">
-                            Creation of a decentralized Bazaar where people can buy or sell goods using Webdollar as a payment method.
+                            Creation of a decentralized Bazaar where people can buy or sell goods using Webdollar as the payment method.
                         </p>
                     </div>
                 </div>
